@@ -9,3 +9,4 @@ this tool can be very efficient compared with most other similar apps. And since
 The most important, R has a splendid ability in data visualization and statistical analysis, which in nature could provide much more insight into financial data and supports users' decision making better.
 
 ![Demo UI](https://cloud.githubusercontent.com/assets/10232241/12736839/5ea310d8-c919-11e5-8880-bd962ab04650.png)
+![Demo UI](https://cloud.githubusercontent.com/assets/10232241/12736914/efe1ab54-c919-11e5-878a-dc292f58f29d.png)
