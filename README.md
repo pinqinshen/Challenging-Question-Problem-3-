@@ -8,4 +8,4 @@ this tool can be very efficient compared with most other similar apps. And since
 
 The most important, R has a splendid ability in data visualization and statistical analysis, which in nature could provide much more insight into financial data and supports users' decision making better.
 
-[Demo Plot](demo1.png)
+[Demo Plot](C:\Users\zsz\Desktop\demo1.png)
